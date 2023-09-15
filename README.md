@@ -5,7 +5,8 @@
 ## Architecture
 <br/>
 
-![Architecture](image.png)
+![Architecture](https://github.com/STCLab-Internship/LicenseManagement/assets/67617475/1f279620-7252-40ca-a76e-e386dd156ea0)
+
 
 ## API URL 수정
 ```
