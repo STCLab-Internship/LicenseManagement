@@ -1,0 +1,60 @@
+.licenselist{
+    margin-left: 25%;
+    margin-top : 5%;
+    height : 100%;
+}
+
+.licenseListEdit{
+    border : none;
+    border-radius : 5px;
+    padding : 5px 10px;
+    color : white;
+    cursor : pointer;
+    margin-right: 15px;
+    background-color: rgba(128, 0, 128, 0.671);
+    font-weight: bold;
+    border: none;
+}
+
+.licenseKeyShow{
+    border : none;
+    border-radius : 5px;
+    padding : 5px 10px;
+    color : white;
+    cursor : pointer;
+    margin-right: 15px;
+    background-color: rgba(47, 143, 195, 0.671);
+    font-weight: bold;
+    border: none;
+}
+
+.licenseListDelete{
+    border : none;
+    border-radius : 5px;
+    padding : 5px 10px;
+    color : white;
+    cursor : pointer;
+    margin-right: 15px;
+    background-color: rgba(253, 10, 10, 0.67);
+    font-weight: bold;
+    border: none;
+}
+
+.licenseTitle{
+    padding-bottom : 2%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+.licenseListAdd {
+    border : none;
+    border-radius : 5px;
+    padding : 5px 10px;
+    color : white;
+    cursor : pointer;
+    margin-right: 15px;
+    background-color: rgba(138, 171, 49, 0.67);
+    font-weight: bold;
+    border: none;
+}

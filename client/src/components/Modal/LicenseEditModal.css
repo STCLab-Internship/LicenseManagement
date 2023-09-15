@@ -1,0 +1,40 @@
+.inmodal{
+    padding : 2% 2% 0% 2%;
+}
+
+.modaltitle{
+    text-align: center;
+    color : rgba(128, 0, 128, 0.671);
+    font-weight : bold;
+}
+
+.modeltextfield{
+    margin-right: 10%,
+}
+
+.editsubmit{
+    width: 200px;
+    background-color: rgba(128, 0, 128, 0.671);
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor : pointer;
+  }
+
+  .addsubmit{
+    width: 200px;
+    background-color: rgba(128, 0, 128, 0.671);
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor : pointer;
+  }
+
+.modalbutton{
+    display: flex;
+    justify-content: center;
+}
